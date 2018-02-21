@@ -1,0 +1,9 @@
+edu/eci/pdsw/samples/entities/Item.class
+edu/eci/pdsw/samples/services/Test.class
+edu/eci/pdsw/samples/services/ExcepcionServiciosAlquiler.class
+edu/eci/pdsw/samples/entities/ItemRentado.class
+edu/eci/pdsw/samples/services/ServiciosAlquilerItemsStub.class
+edu/eci/pdsw/samples/services/ServiciosAlquiler.class
+edu/eci/pdsw/samples/entities/Cliente.class
+edu/eci/pdsw/samples/entities/TipoItem.class
+edu/eci/pdsw/samples/managedbeans/AlquilerItemsBean.class

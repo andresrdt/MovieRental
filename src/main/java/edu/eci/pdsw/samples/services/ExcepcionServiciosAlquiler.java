@@ -19,5 +19,8 @@ public class ExcepcionServiciosAlquiler extends Exception {
     public ExcepcionServiciosAlquiler(Throwable cause) {
         super(cause);
     }
+    public String getException(){
+        return super.getMessage();
+    }
     
 }
