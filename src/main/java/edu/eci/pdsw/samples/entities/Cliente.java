@@ -104,7 +104,5 @@ public class Cliente implements Serializable{
         this.rentados = Rentados;
     }
 
-   
-    
     
 }
