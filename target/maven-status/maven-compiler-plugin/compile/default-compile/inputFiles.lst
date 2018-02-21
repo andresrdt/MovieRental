@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/Item.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/ItemRentado.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ServiciosAlquilerItemsStub.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/Cliente.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/services/Test.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/managedbeans/AlquilerItemsBean.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ExcepcionServiciosAlquiler.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/TipoItem.java
-/home/local/LABINFO/2112107/Documents/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ServiciosAlquiler.java
-=======
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/managedbeans/AlquilerItemsBean.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ServiciosAlquilerItemsStub.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/TipoItem.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/Item.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ServiciosAlquiler.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/services/ExcepcionServiciosAlquiler.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/ItemRentado.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/services/Test.java
-/home/local/LABINFO/2112076/MovieRental/src/main/java/edu/eci/pdsw/samples/entities/Cliente.java
->>>>>>> 618f64d47b88aaecd9dc0f10dc7aac5026a90864
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\entities\TipoItem.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\services\ExcepcionServiciosAlquiler.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\services\Test.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\services\ServiciosAlquiler.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\entities\Cliente.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\entities\Item.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\entities\ItemRentado.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\services\ServiciosAlquilerItemsStub.java
+C:\Users\2112107\MovieRental\src\main\java\edu\eci\pdsw\samples\managedbeans\AlquilerItemsBean.java
