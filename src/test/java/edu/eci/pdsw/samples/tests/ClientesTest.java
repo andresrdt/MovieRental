@@ -42,23 +42,7 @@ public abstract class ClientesTest {
         } catch (ExcepcionServiciosAlquiler e){
             assertTrue("no deberia registrar dos veces",true);
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        fail();
-      
+            fail();
     }
     
     
